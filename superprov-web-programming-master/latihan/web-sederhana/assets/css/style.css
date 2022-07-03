@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    background-color: orange;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.navigasi {
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.navigasi a {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.navigasi a:hover {
+    text-decoration: underline;
+    color:royalblue
+}
+
+
+.footer {
+    background-color: orange;
+    padding: 5px;
+    text-align: center;
+}
+
+.content {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.center {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
